@@ -1,0 +1,200 @@
+свежий сборник команд Ue4ss для Voices of The Void 0.10
+информация собиралась с сайта votv-ru.fandom.com
+Обратите Внимание!
+🌈 = предупреждение о эпилепсии
+! = радиация
+О = керфур омега
+если вы хотите дополнить список напишите мне в discord/telegram и пришлите файл
+telegram: prjctskbx
+discord: imyawn
+
+----------еда---------
+summon prop_food_C - бургер
+summon prop_pizza_C - пицца(обычная)
+summon prop_pizza_1_C - пицца(ананасы)
+summon prop_pizza_2_C - пицца(грибы)
+summon prop_pizza_3_C - пицца(креветки)
+summon prop_food_taco_C - тако
+summon prop_food_shrimp_C - упаковка креветок
+summon shrimp_r - сырая креветка
+summon shrimp_c - приготовленая креветка
+summon pineapple - ананас(полный)
+summon pineapple_sl_0 - ананас(верхушка)
+summon pineapple_sl_1 - ананас(ломтик)
+summon orange - апельсин(полный)
+summon orange_sl - апельсин(долька)
+summon egg - яйцо
+summon wug_c - ядрёное пиво WUG
+summon pinec_0 - шишка(сырая)
+summon pinec_1 - шишка(спелая)
+summon burger_c - куриный сендвич(чизбургер)
+summon licorice - лакрица
+summon hotdog - хот дог
+summon hotdogcar - хот дог машина
+summon meatball - фрикаделька
+summon foodbox - лапша
+summon pumpkin - тыква
+summon pumpkin_sl_0 - тыква(ломтик)
+summon ppie - тыквеннsый пирог
+summon ppie_0 - тыквенный пирог(ломтик)
+summon cake - торт(не ложь)
+summon toblerone - тоблерон
+summon prop_deadRoach_c - таракан(пабло)
+summon prop_drive_c - диск?
+summon prop_arirEgg_c - яйцо?
+summon cookie_0 - пирожное?
+summon cup_c - кофе(стаканчик)
+summon goregib_g_2 - плоть(1)
+summon goregib_g_3 - плоть(2)
+summon goregib_g_4 - плоть(3)
+summon goregib_g_5 - плоть(4)
+summon cookie - печенька
+summon eastercake - пасхальный кулич
+summon crossbun - пасхальная булочко
+summon popcorn - поп корн
+summon prop_cookingFood_shrimp1 - креветка?(сырая)
+summon shrimpa_c - креветка?(готовая)
+summon bryn - фрукт?
+summon arirYog - неизвестная субстанция
+summon chnugg - нагес
+summon flatbread - лепёшка
+summon croissant - круассан
+summon burger_s - креветочный бурбер
+summon choco - кофейная чоколадка
+summon sushi - суши
+summon prop_food_root_c - корень им би ря
+summon candy - конфетка
+summon prop_cannedFood_0_c - консервированная еда
+summon prop_cannedFood_1_c - консервированная еда
+summon prop_cannedFood_2_c - консервированная еда
+summon prop_cannedFood_3_c - консервированная еда
+summon prop_cannedFood_4_c - консервированная еда
+summon potato - сырая картопля
+summon potato_h - половина картопли
+summon potato_q - четверть картопли
+summon potato_qc - приготовленный кортошко
+summon bun_1 - испорченная булёчка
+summon mre - ирп
+summon burger_g - золотой бурбер
+summon prop_snack_beer_c - пиво(закрытое)
+summon beer_o - пиво(открытое)
+summon wine - винишко
+summon bun_0 - булёчка
+summon butter - сасло
+summon jar_honey - банка мёда
+summon prop_snack_milk_c - молоко
+summon cucumber - огурец
+summon cucumber_sl_0 - огурец(ломтик)
+summon tomato - помидор
+summon tomato_sl_0 - помидор(ломтик)
+summon sausage_c - сосиська(приготовленая)
+summon sausage_r - сосирка(сырая)
+summon steak_r - стейк(сырой)
+summon steak_c - стейк(приготовленый)
+summon prop_food_cheese_w_c - сыхр(головка)
+summon prop_food_cheese_c - сыр(кусок)
+summon prop_food_cheese_c_c - сыр(кубик)
+summon prop_food_cheese_s_c - сын(ломтик)
+summon bread - хлеб(буханка)
+summon bread_sl - хлеб(ломтик)
+summon snuskloaf - серьёзно я не знаю что это (!)
+summon burgerBuns - булочка для бургера(бургер/хотдог)
+summon patty_r - котлета(сырая)
+summon patty_c - котлета(приготовленная)
+summon lemon - лимон
+summon lemon_sl_0 - лимон(долька)
+summon mango - манго
+summon mango_sl - манго(долька)
+summon watermelon - арбуз
+summon watermelon_sl_0 - арбуз(долька)
+summon french - багет
+summon french_sl - фронцузкое(ломтики)
+summon prop_food_banana_c - бабан
+summon prop_bananaHusk_c - банана(кожура)
+summon fish_0 - плотва
+summon fishsteak_0 - плотва(сырая)
+summon fishsteakC_0 - плотва(готовая)
+summon fish_1 - пиранья
+summon fishsteak_1 - пиранья(сырая)
+summon fishsteakC_1 - пиранья(готовая)
+summon fish_2 - горбатая
+summon fishsteak_2 - горбатая(сырая)
+summon fishsteakC_2 - горбатая(готовая)
+summon fish_3 - ласточка
+summon fishsteak_3 - ласточка(сырая)
+summon fishsteakC_3 - ласточка(готовая)
+summon fish_4 - малакант
+summon fishsteak_4 - малакант(сырая)
+summon fishsteakC_4 - малакант(готовая)
+summon fish_5 - сакабамбаспис
+summon fishsteak_5 - сакабамбаспис(сырая)
+summon fishsteakC_5 - сакабамбаспис(готовая)
+summon fish_6 - альмако
+summon fishsteak_6 - альмако(сырая)
+summon fishsteakC_6 - альмако(готовая)
+summon fish_7 - барракуда
+summon fishsteak_7 - барракуда(сырая)
+summon fishsteakC_7 - барракуда(готовая)
+summon fish_8 - большеглазая
+summon fishsteak_8 - большеглазая(сырая)
+summon fishsteakC_8 - большеглазая(готовая)
+summon fish_9 - синеголовая
+summon fishsteak_9 - синеголовая(сырая)
+summon fishsteakC_9 - синеголовая(готовая)
+summon fish_10 - сардина
+summon fishsteak_10 - сардина(сырая)
+summon fishsteakC_10 - сардина(готовая)
+summon fish_11 - полосатая
+summon fishsteak_11 - полосатая(сырая)
+summon fishsteakC_11 - полосатая(готовая)
+summon fish_12 - тунец
+summon fishsteak_12 - тунец(сырая)
+summon fishsteakC_12 - тунец(готовая)
+summon fish_13 - урод
+summon fishsteak_13 - урод(сырая)
+summon fishsteakC_13 - урод(готовая)
+summon fish_14 - жёлтохвостая
+summon fishsteak_14 - жёлтохвостая(сырая)
+summon fishsteakC_14 - жёлтохвостая(готовая)
+summon charcoal - CHRBRG
+summon berry_0 - черника
+summon berry_1 - малина
+summon berry_2 - снежноягодник
+summon berry_3 - ягоды арбутуса
+summon sn_soda_0 - Fan'C(газировка)
+summon sn_soda_1 - MeowMew(газировка)
+summon sn_soda_2 - PeePsee(газировка)
+summon sn_soda_3 - DrPennys(газировка)
+summon sn_soda_4 - Shrimp(газировка)
+summon sn_soda_5 - WUG Hell Beer(газировка)
+summon sn_soda_6 - XETA NRG(газировка)
+summon sn_candy_0 - Maltese(конфета)
+summon sn_candy_1 - Gumai(конфета)
+summon sn_candy_2 - Gumai Sour(конфета)
+summon sn_candy_3 - KandaiBaka(конфета)
+summon sn_chips_0 - Nachotos(чипсы)
+summon sn_chips_1 - Heatos(чыпсы)
+summon sn_chips_2 - Gray's(чипси)
+summon shroom - гриб(коричневый)
+summon shroom_2 - гриб(красный)
+summon shroom_3 - гриб(плоский)
+summon shroom_4 - гриб(жёлтый)
+summon shroom_5 - гриб(голубой)
+summon shroom_6 - гриб(толстый)
+summon shroom_7 - гриб(белый)
+summon shroom_7m - гриб(взрывной)
+summon funnyshroom - гриб(фунги)(🌈)
+summon shroom_sd - гриб(белый)
+summon shroom_tr - гриб(коричневая шляпка)
+summon shroom_gui - гриб(белая шляпка)
+summon shroom_spng - гриб(белая шляпка)
+
+----------Машины---------
+summon p_kerfus_C - керфус синий
+summon p_kerfus_p_C - керфус розовый
+summon p_kerfus_y_C - керфус оранжевый
+summon prop_kerfusOmega_C - керфус синий(О)
+summon prop_kerfusOmega_1_C - керфус розовый(О)
+summon prop_kerfusOmega_2_C - керфус красный(О)
+
+скоро больше я не успел доделать
